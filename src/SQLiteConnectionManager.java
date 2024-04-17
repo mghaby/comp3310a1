@@ -27,7 +27,6 @@ public class SQLiteConnectionManager {
     {
         databaseURL = "jdbc:sqlite:sqlite/" + filename;
     }
-
     /**
      * Connect to a sample database
      *
