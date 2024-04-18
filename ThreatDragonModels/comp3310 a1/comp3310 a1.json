@@ -744,51 +744,6 @@
                 "y": 330
               }
             ]
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "targetMarker": {
-                  "name": "block"
-                },
-                "sourceMarker": {
-                  "name": ""
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Data Flow",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": false,
-              "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "protocol": "",
-              "threats": []
-            },
-            "id": "3c4fb1fd-9d39-4b94-bee6-a66181827dc5",
-            "source": {
-              "cell": "5b9f7021-0e8d-4faa-932e-eaf0e9daf57c"
-            },
-            "target": {
-              "cell": "dca58017-03a5-4178-9059-b8dedddd03da"
-            },
-            "vertices": [
-              {
-                "x": 930,
-                "y": 398
-              }
-            ]
           }
         ],
         "description": "Stride for checkers app"
