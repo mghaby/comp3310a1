@@ -1,0 +1,27 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "comp3310 a1",
+    "owner": "Mark Ghaby",
+    "description": "threat analysis for checkers app",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Stride for checkers app",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.2.0",
+        "cells": [],
+        "description": "Stride for checkers app"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "N/A",
+    "threatTop": 0
+  }
+}
