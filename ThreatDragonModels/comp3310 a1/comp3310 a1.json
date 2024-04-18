@@ -731,52 +731,6 @@
               "protocol": "",
               "threats": []
             },
-            "id": "c13b30e6-e68e-4dad-8440-cfbcd692b567",
-            "source": {
-              "x": 530,
-              "y": 288
-            },
-            "target": {
-              "cell": "309951e7-74bf-4917-a921-edbbbd059562"
-            },
-            "vertices": [
-              {
-                "x": 820,
-                "y": 288
-              }
-            ]
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "targetMarker": {
-                  "name": "block"
-                },
-                "sourceMarker": {
-                  "name": ""
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Data Flow",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "hasOpenThreats": false,
-              "isBidirectional": false,
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "protocol": "",
-              "threats": []
-            },
             "id": "c109c4b0-4b75-45d6-94f9-3ca1b254a11f",
             "source": {
               "cell": "309951e7-74bf-4917-a921-edbbbd059562"
