@@ -38,8 +38,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "f169c186-b378-4308-a20d-c6c481ffd991",
             "zIndex": 1,
+            "id": "f169c186-b378-4308-a20d-c6c481ffd991",
             "data": {
               "type": "tm.Actor",
               "name": "Player 1",
@@ -72,8 +72,8 @@
             },
             "visible": true,
             "shape": "actor",
-            "id": "e135402b-cf2b-4ef1-bb01-7864d6c95fcb",
             "zIndex": 2,
+            "id": "e135402b-cf2b-4ef1-bb01-7864d6c95fcb",
             "data": {
               "type": "tm.Actor",
               "name": "Player 2",
@@ -109,8 +109,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "309951e7-74bf-4917-a921-edbbbd059562",
             "zIndex": 3,
+            "id": "309951e7-74bf-4917-a921-edbbbd059562",
             "data": {
               "type": "tm.Store",
               "name": "Data.txt",
@@ -150,8 +150,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "5b9f7021-0e8d-4faa-932e-eaf0e9daf57c",
             "zIndex": 4,
+            "id": "5b9f7021-0e8d-4faa-932e-eaf0e9daf57c",
             "data": {
               "type": "tm.Store",
               "name": "checkersGames.db",
@@ -188,8 +188,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "774fd007-52a6-4f9e-a24b-0941d403df2e",
             "zIndex": 5,
+            "id": "774fd007-52a6-4f9e-a24b-0941d403df2e",
             "data": {
               "type": "tm.Process",
               "name": "App.java",
@@ -225,8 +225,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "1d250c91-5fbb-46b6-aacb-b8a548eea782",
             "zIndex": 6,
+            "id": "1d250c91-5fbb-46b6-aacb-b8a548eea782",
             "data": {
               "type": "tm.Process",
               "name": "Board.java",
@@ -262,8 +262,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "3ad9ab5a-8f79-4bab-bc9e-bee08a4ba3eb",
             "zIndex": 7,
+            "id": "3ad9ab5a-8f79-4bab-bc9e-bee08a4ba3eb",
             "data": {
               "type": "tm.Process",
               "name": "Grid/Cell/Prompt.java",
@@ -299,8 +299,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "dca58017-03a5-4178-9059-b8dedddd03da",
             "zIndex": 8,
+            "id": "dca58017-03a5-4178-9059-b8dedddd03da",
             "data": {
               "type": "tm.Process",
               "name": "sqliteConnectionManageer.java",
