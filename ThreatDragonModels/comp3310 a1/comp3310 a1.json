@@ -860,6 +860,119 @@
                 "y": 280
               }
             ]
+          },
+          {
+            "shape": "trust-boundary-curve",
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Boundary",
+              "name": "",
+              "description": "",
+              "isTrustBoundary": true,
+              "hasOpenThreats": false
+            },
+            "id": "e5640560-0536-4649-a73f-4d028104a9bb",
+            "source": {
+              "x": 650,
+              "y": 280
+            },
+            "target": {
+              "x": 640,
+              "y": 350
+            },
+            "vertices": [
+              {
+                "x": 610,
+                "y": 310
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "53d1dfb0-d0f9-4ceb-92a9-f3b770861f0a",
+            "source": {
+              "cell": "5b9f7021-0e8d-4faa-932e-eaf0e9daf57c"
+            },
+            "target": {
+              "cell": "dca58017-03a5-4178-9059-b8dedddd03da"
+            },
+            "vertices": [
+              {
+                "x": 900,
+                "y": 370
+              }
+            ]
+          },
+          {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "targetMarker": {
+                  "name": "block"
+                },
+                "sourceMarker": {
+                  "name": ""
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "hasOpenThreats": false,
+              "isBidirectional": false,
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "protocol": "",
+              "threats": []
+            },
+            "id": "fafa6159-e514-4bb4-bbdc-15394c72c8e7",
+            "source": {
+              "cell": "dca58017-03a5-4178-9059-b8dedddd03da"
+            },
+            "target": {
+              "cell": "774fd007-52a6-4f9e-a24b-0941d403df2e"
+            }
           }
         ],
         "description": "Stride for checkers app"
