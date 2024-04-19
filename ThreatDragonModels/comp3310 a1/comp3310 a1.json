@@ -845,35 +845,6 @@
               "isTrustBoundary": true,
               "hasOpenThreats": false
             },
-            "id": "df148acc-3aef-4ac9-a498-82fb579e59f9",
-            "source": {
-              "x": 850,
-              "y": 230
-            },
-            "target": {
-              "x": 800,
-              "y": 280
-            },
-            "vertices": [
-              {
-                "x": 850,
-                "y": 280
-              }
-            ]
-          },
-          {
-            "shape": "trust-boundary-curve",
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Boundary",
-              "name": "",
-              "description": "",
-              "isTrustBoundary": true,
-              "hasOpenThreats": false
-            },
             "id": "e5640560-0536-4649-a73f-4d028104a9bb",
             "source": {
               "x": 650,
